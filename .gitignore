@@ -1,0 +1,26 @@
+# Diretórios de resultados dos testes
+logs/
+output.xml
+report.html
+log.html
+
+# Pasta com prints
+screenshots/
+
+# Arquivos temporários ou backups
+*.pyc
+__pycache__/
+*.log
+
+# Ambiente virtual Python
+venv/
+.env/
+*.env
+
+# Configurações do VSCode e outros editores
+.vscode/
+.idea/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
